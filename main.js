@@ -16,4 +16,5 @@ document.getElementById('oba3').value = unit;
 document.getElementById('order_billing_zip').value = zip;
 document.getElementById('order_billing_city').value = city;
 document.getElementById('order_billing_country').value = country;
+document.getElementById('states-CANADA').value = country;
 document.getElementById('order_billing_state').value = state;
